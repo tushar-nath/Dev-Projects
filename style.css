@@ -1,0 +1,21 @@
+* {
+    background-color: lightgray;
+} 
+body {
+    /* background-image: url(../Project-V1/background.jpg); */
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.box-1 {
+    text-align: center;
+    border: 2px yellow;
+    padding: 20px;
+    margin: 20px; 
+}
+.box-2 {
+    border: 2px black;
+    padding: 20px;
+    margin: 20px;
+}
